@@ -28,6 +28,14 @@ Project_1.ipynb # EDA & Cleaning steps
 README.md # Project description and objectives
 .gitignore # Exclude unnecessary files
 
+---
+
+## 📸 Dashboard Preview
+
+Here is a preview of the interactive dashboard built using Power BI:
+
+![Power BI Dashboard Screenshot](images/dashboard.png)
+
 
 
 ---
