@@ -35,7 +35,7 @@ README.md # Project description and objectives
 Here is a preview of the interactive dashboard built using Power BI:
 
 ![Power BI Dashboard Screenshot](Dashboard.png)
-![Power BI Dashboard Screenshot](Dashboard_1.png)
+![Power BI Dashboard Screenshot](Dashboard2.png)
 
 
 
